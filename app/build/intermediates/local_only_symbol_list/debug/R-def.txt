@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_tambah
+id fab_tambah
+id tv_destinasi
+id tv_id
+id tv_nama
+id tv_npm
+id tv_prodi
+layout activity_main
+layout activity_tambah
+layout list_item_mahasiswa
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.SQLITE
+xml backup_rules
+xml data_extraction_rules
